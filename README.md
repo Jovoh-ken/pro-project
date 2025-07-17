@@ -39,7 +39,7 @@
 ## 👨‍💻 Автор
 
 Проект создан с целью обучения и развития навыков.  
-**Автор:** Javohir Jumayev (GitHub: [@JAVAHIIR](https://github.com/JAVAHIIR))
+**Автор:** Javohir Jumayev (GitHub: [@Javoh-ken](https://github.com/Javoh-ken))
 
 ---
 
